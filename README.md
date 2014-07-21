@@ -1,2 +1,4 @@
 blogger
 =======
+
+Setting up git
